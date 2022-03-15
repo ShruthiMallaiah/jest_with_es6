@@ -14,6 +14,6 @@ Steps:
   }
 ```
 Reference:
-https://www.youtube.com/watch?v=kA9Pdu-IblI
-https://linkstraffic.net/using-jest-with-es6-modules/
-https://itnext.io/writing-scripts-as-frontend-with-es6-and-jest-bb53d32da8b5
+https://www.youtube.com/watch?v=kA9Pdu-IblI <br/>
+https://linkstraffic.net/using-jest-with-es6-modules/ <br/>
+https://itnext.io/writing-scripts-as-frontend-with-es6-and-jest-bb53d32da8b5 <br/>
